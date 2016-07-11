@@ -1,0 +1,50 @@
+
+; <<>> DiG 9.8.3-P1 <<>> +trace www.cs.columbia.edu
+;; global options: +cmd
+.			437916	IN	NS	k.root-servers.net.
+.			437916	IN	NS	l.root-servers.net.
+.			437916	IN	NS	d.root-servers.net.
+.			437916	IN	NS	a.root-servers.net.
+.			437916	IN	NS	j.root-servers.net.
+.			437916	IN	NS	m.root-servers.net.
+.			437916	IN	NS	c.root-servers.net.
+.			437916	IN	NS	f.root-servers.net.
+.			437916	IN	NS	g.root-servers.net.
+.			437916	IN	NS	e.root-servers.net.
+.			437916	IN	NS	h.root-servers.net.
+.			437916	IN	NS	b.root-servers.net.
+.			437916	IN	NS	i.root-servers.net.
+;; Received 228 bytes from 128.59.1.3#53(128.59.1.3) in 69 ms
+
+edu.			172800	IN	NS	g.edu-servers.net.
+edu.			172800	IN	NS	f.edu-servers.net.
+edu.			172800	IN	NS	l.edu-servers.net.
+edu.			172800	IN	NS	c.edu-servers.net.
+edu.			172800	IN	NS	d.edu-servers.net.
+edu.			172800	IN	NS	a.edu-servers.net.
+;; Received 272 bytes from 192.36.148.17#53(192.36.148.17) in 31 ms
+
+columbia.edu.		172800	IN	NS	dns2.itd.umich.edu.
+columbia.edu.		172800	IN	NS	adns1.berkeley.edu.
+columbia.edu.		172800	IN	NS	adns2.berkeley.edu.
+columbia.edu.		172800	IN	NS	ns1.lse.ac.uk.
+columbia.edu.		172800	IN	NS	sns-pb.isc.org.
+columbia.edu.		172800	IN	NS	ext-ns1.columbia.edu.
+;; Received 256 bytes from 192.42.93.30#53(192.42.93.30) in 81 ms
+
+cs.columbia.edu.	3600	IN	NS	sundog.ee.columbia.edu.
+cs.columbia.edu.	3600	IN	NS	diana.cs.columbia.edu.
+cs.columbia.edu.	3600	IN	NS	apollo.cs.columbia.edu.
+cs.columbia.edu.	3600	IN	NS	dns2.itd.umich.edu.
+cs.columbia.edu.	3600	IN	NS	ext-ns1.columbia.edu.
+;; Received 217 bytes from 128.32.136.14#53(128.32.136.14) in 102 ms
+
+www.cs.columbia.edu.	60	IN	CNAME	webcluster.cs.columbia.edu.
+webcluster.cs.columbia.edu. 60	IN	A	128.59.11.206
+cs.columbia.edu.	60	IN	NS	diana.cs.columbia.edu.
+cs.columbia.edu.	60	IN	NS	apollo.cs.columbia.edu.
+cs.columbia.edu.	60	IN	NS	dns2.itd.umich.edu.
+cs.columbia.edu.	60	IN	NS	ext-ns1.columbia.edu.
+cs.columbia.edu.	60	IN	NS	sundog.ee.columbia.edu.
+;; Received 242 bytes from 128.59.64.59#53(128.59.64.59) in 2 ms
+

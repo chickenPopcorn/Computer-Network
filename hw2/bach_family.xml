@@ -1,0 +1,282 @@
+<?xml version = "1.0"?>
+<!--
+
+<person>
+	<name></name>
+	<dob></dob>
+	<dod></dod>
+	<spouse>
+
+		<children>
+		</children>
+		
+	</spouse> 
+</person>
+
+<person>
+	<name></name>
+	<dob></dob>
+	<dod></dod>
+</person>
+-->
+
+
+<person>
+	<name>Veit Bach</name>
+	<dob>none</dob>
+	<dod>1619</dod>
+	<spouse>
+
+		<children>
+			<person>
+				<name>Johannes Bach I</name>
+				<dob>1580</dob>
+				<dod>1626</dod>
+				<spouse>
+
+					<children>
+						<person>
+							<name>Christoph Bach</name>
+							<dob>1613</dob>
+							<dod>1661</dod>
+							<spouse>
+
+								<children>
+									<person>
+										<name>Johann Ambrosius Bach</name>
+										<dob>1645</dob>
+										<dod>1695</dod>
+										<spouse>
+											<person>
+												<name>Maria Elisabeth Lämmerhirt</name>
+												<dob>1644</dob>
+												<dod>1694</dod>
+											</person>
+
+											<children>
+												<person>
+													<name>Johann Sebastian Bach</name>
+													<dob>1685</dob>
+													<dod>1750</dod>
+													<spouse>
+														<person>
+															<name>Anna Magdalena Wilcke</name>
+															<dob>1701</dob>
+															<dod>1760</dod>
+														</person>
+
+														<children>
+															<person>
+																<name>Gottfried Heinrich Bach</name>
+																<dob>1724</dob>
+																<dod>1763</dod>
+															</person>
+
+															<person>
+																<name>Johann Christoph Friedrich Bach</name>
+																<dob>1732</dob>
+																<dod>1795</dod>
+																<spouse>
+																	<person>
+																		<name>Lucia Elisabeth Munchhusen</name>
+																		<dob>1728</dob>
+																		<dod>1803</dod>
+																	</person>
+																	<children>
+																		<person>
+																			<name>Anna Philippiana Friederica Bach</name>
+																			<dob>1755</dob>
+																			<dod>1804</dod>
+																			<spouse>
+																				<person>
+																					<name>Wilhelm Ernst Colson</name>
+																					<dob>none</dob>
+																					<dod>none</dod>
+																				</person>
+																			</spouse> 
+																		</person>
+
+																		<person>
+																			<name>Wilhelm Friedrich Ernst Bach</name>
+																			<dob>1759</dob>
+																			<dod>1845</dod>
+																			<spouse>
+																				<person>
+																					<name>Charlotte Philippina Elerdt</name>
+																					<dob>1780</dob>
+																					<dod>1801</dod> 
+																				</person>
+																				<children>
+																					<person>
+																						<name>Carolina Augusta Wilhelmine Bach</name>
+																						<dob>1800</dob>
+																						<dod>1871</dod>
+																						<spouse>
+																							<person>
+																								<name>Ludwig Albrecht Hermann Ritter</name>
+																								<dob>none</dob>
+																								<dod>none</dod>
+																							</person>
+																						</spouse> 
+																					</person>
+																					<person>
+																						<name>Juliane Friederica</name>
+																						<dob>b. 100</dob>
+																						<dod>none</dod>
+																					</person>
+																				</children>
+																			</spouse> 
+																		</person>
+
+																		<person>
+																			<name>Christina Luise Bach</name>
+																			<dob>none</dob>
+																			<dod>1852</dod>
+																		</person>
+																	</children>
+
+																</spouse> 
+															</person>
+
+															<person>
+																<name>Johann Christian Bach</name>
+																<dob>1735</dob>
+																<dod>1782</dod>
+															</person>
+
+															<person>
+																<name>Elisabeth Juliane Friederica</name>
+																<dob>1726</dob>
+																<dod>1781</dod>
+																<spouse>
+																	<person>
+																		<name>Johann Christoph Altnikol</name>
+																		<dob>1720</dob>
+																		<dod>1759</dod>
+																	</person>
+
+																	<children>
+																		<person>
+																			<name>Johann Sebastian Altnickol </name>
+																			<dob>1749</dob>
+																			<dod>1749</dod>
+																		</person>
+																	</children>
+																</spouse> 
+															</person>
+
+															<person>
+																<name>Johanna Carolina</name>
+																<dob>1737</dob>
+																<dod>1781</dod>
+															</person>
+
+															<person>
+																<name>Regina Susanna</name>
+																<dob>1742</dob>
+																<dod>1809</dod>
+															</person>
+														</children>
+														
+													</spouse> 
+												</person>
+												<person>
+													<name>Johann Jacob Bach</name>
+													<dob>1682</dob>
+													<dod>1722</dod>
+												</person>
+											</children>
+											
+										</spouse> 
+									</person>
+
+									<person>
+										<name>Johann Christoph Bach</name>
+										<dob>1645</dob>
+										<dod>1693</dod>
+									</person>
+								</children>		
+							</spouse> 
+						</person>
+						<person>
+							<name>Heinrich Bach </name>
+							<dob>1615</dob>
+							<dod>1692</dod>
+							<spouse>
+								<children>
+									<person>
+										<name>Johann Christoph Bach</name>
+										<dob>1642</dob>
+										<dod>1703</dod>
+										<spouse>
+
+											<children>
+												<person>
+													<name>Johann Nicolaus Bach</name>
+													<dob>1669</dob>
+													<dod>1753</dod>
+												</person>
+											</children>
+											
+										</spouse> 
+									</person>
+
+									<person>
+										<name>Johann Michael Bach</name>
+										<dob>1648</dob>
+										<dod>1694</dod>
+										<spouse>
+											<children>
+												<person>
+													<name>Maria Barbara Bach</name>
+													<dob>1684</dob>
+													<dod>1720</dod>
+													<spouse>
+														<person>
+															<name>Johann Sebastian Bach</name>
+															<dob>1685</dob>
+															<dod>1750</dod>
+														</person>
+														<children>
+															<person>
+																<name>Wilhelm Friedemann Bach</name>
+																<dob>1710</dob>
+																<dod>1784</dod>
+															</person>
+															<person>
+																<name>Carl Philipp Emanuel Bach</name>
+																<dob>1714</dob>
+																<dod>1788</dod>
+															</person>	
+														</children>
+													</spouse> 
+												</person>
+											</children>	
+										</spouse> 
+									</person>
+								</children>
+								
+							</spouse> 
+						</person>
+					</children>
+					
+				</spouse> 
+			</person>
+		</children>
+		
+	</spouse> 
+</person>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

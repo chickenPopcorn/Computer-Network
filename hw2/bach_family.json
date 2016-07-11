@@ -1,0 +1,240 @@
+{
+    "person": {
+        "name": "Veit Bach",
+        "dob": "none",
+        "dod": "1619",
+        "spouse": {
+            "children": {
+                "person": {
+                    "name": "Johannes Bach I",
+                    "dob": "1580",
+                    "dod": "1626",
+                    "spouse": {
+                        "children": {
+                            "person": [
+                                {
+                                    "name": "Christoph Bach",
+                                    "dob": "1613",
+                                    "dod": "1661",
+                                    "spouse": {
+                                        "children": {
+                                            "person": [
+                                                {
+                                                    "name": "Johann Ambrosius Bach",
+                                                    "dob": "1645",
+                                                    "dod": "1695",
+                                                    "spouse": {
+                                                        "person": {
+                                                            "name": "Maria Elisabeth Lämmerhirt",
+                                                            "dob": "1644",
+                                                            "dod": "1694"
+                                                        },
+                                                        "children": {
+                                                            "person": [
+                                                                {
+                                                                    "name": "Johann Sebastian Bach",
+                                                                    "dob": "1685",
+                                                                    "dod": "1750",
+                                                                    "spouse": {
+                                                                        "person": {
+                                                                            "name": "Anna Magdalena Wilcke",
+                                                                            "dob": "1701",
+                                                                            "dod": "1760"
+                                                                        },
+                                                                        "children": {
+                                                                            "person": [
+                                                                                {
+                                                                                    "name": "Gottfried Heinrich Bach",
+                                                                                    "dob": "1724",
+                                                                                    "dod": "1763"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Johann Christoph Friedrich Bach",
+                                                                                    "dob": "1732",
+                                                                                    "dod": "1795",
+                                                                                    "spouse": {
+                                                                                        "person": {
+                                                                                            "name": "Lucia Elisabeth Munchhusen",
+                                                                                            "dob": "1728",
+                                                                                            "dod": "1803"
+                                                                                        },
+                                                                                        "children": {
+                                                                                            "person": [
+                                                                                                {
+                                                                                                    "name": "Anna Philippiana Friederica Bach",
+                                                                                                    "dob": "1755",
+                                                                                                    "dod": "1804",
+                                                                                                    "spouse": {
+                                                                                                        "person": {
+                                                                                                            "name": "Wilhelm Ernst Colson",
+                                                                                                            "dob": "none",
+                                                                                                            "dod": "none"
+                                                                                                        }
+                                                                                                    }
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Wilhelm Friedrich Ernst Bach",
+                                                                                                    "dob": "1759",
+                                                                                                    "dod": "1845",
+                                                                                                    "spouse": {
+                                                                                                        "person": {
+                                                                                                            "name": "Charlotte Philippina Elerdt",
+                                                                                                            "dob": "1780",
+                                                                                                            "dod": "1801"
+                                                                                                        },
+                                                                                                        "children": {
+                                                                                                            "person": [
+                                                                                                                {
+                                                                                                                    "name": "Carolina Augusta Wilhelmine Bach",
+                                                                                                                    "dob": "1800",
+                                                                                                                    "dod": "1871",
+                                                                                                                    "spouse": {
+                                                                                                                        "person": {
+                                                                                                                            "name": "Ludwig Albrecht Hermann Ritter",
+                                                                                                                            "dob": "none",
+                                                                                                                            "dod": "none"
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "Juliane Friederica",
+                                                                                                                    "dob": "b. 100",
+                                                                                                                    "dod": "none"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    }
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Christina Luise Bach",
+                                                                                                    "dob": "none",
+                                                                                                    "dod": "1852"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                {
+                                                                                    "name": "Johann Christian Bach",
+                                                                                    "dob": "1735",
+                                                                                    "dod": "1782"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Elisabeth Juliane Friederica",
+                                                                                    "dob": "1726",
+                                                                                    "dod": "1781",
+                                                                                    "spouse": {
+                                                                                        "person": {
+                                                                                            "name": "Johann Christoph Altnikol",
+                                                                                            "dob": "1720",
+                                                                                            "dod": "1759"
+                                                                                        },
+                                                                                        "children": {
+                                                                                            "person": {
+                                                                                                "name": "Johann Sebastian Altnickol ",
+                                                                                                "dob": "1749",
+                                                                                                "dod": "1749"
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                {
+                                                                                    "name": "Johanna Carolina",
+                                                                                    "dob": "1737",
+                                                                                    "dod": "1781"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Regina Susanna",
+                                                                                    "dob": "1742",
+                                                                                    "dod": "1809"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "name": "Johann Jacob Bach",
+                                                                    "dob": "1682",
+                                                                    "dod": "1722"
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "name": "Johann Christoph Bach",
+                                                    "dob": "1645",
+                                                    "dod": "1693"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "name": "Heinrich Bach ",
+                                    "dob": "1615",
+                                    "dod": "1692",
+                                    "spouse": {
+                                        "children": {
+                                            "person": [
+                                                {
+                                                    "name": "Johann Christoph Bach",
+                                                    "dob": "1642",
+                                                    "dod": "1703",
+                                                    "spouse": {
+                                                        "children": {
+                                                            "person": {
+                                                                "name": "Johann Nicolaus Bach",
+                                                                "dob": "1669",
+                                                                "dod": "1753"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "name": "Johann Michael Bach",
+                                                    "dob": "1648",
+                                                    "dod": "1694",
+                                                    "spouse": {
+                                                        "children": {
+                                                            "person": {
+                                                                "name": "Maria Barbara Bach",
+                                                                "dob": "1684",
+                                                                "dod": "1720",
+                                                                "spouse": {
+                                                                    "person": {
+                                                                        "name": "Johann Sebastian Bach",
+                                                                        "dob": "1685",
+                                                                        "dod": "1750"
+                                                                    },
+                                                                    "children": {
+                                                                        "person": [
+                                                                            {
+                                                                                "name": "Wilhelm Friedemann Bach",
+                                                                                "dob": "1710",
+                                                                                "dod": "1784"
+                                                                            },
+                                                                            {
+                                                                                "name": "Carl Philipp Emanuel Bach",
+                                                                                "dob": "1714",
+                                                                                "dod": "1788"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
